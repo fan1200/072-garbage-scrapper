@@ -5,7 +5,6 @@ namespace App\Modules\GarbageScrapper;
 
 
 use App\Modules\GarbageScrapper\Models\GarbageDay;
-use Carbon\Carbon;
 use Goutte\Client;
 
 class Scrapper

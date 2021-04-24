@@ -7,9 +7,9 @@ namespace App\Modules\GarbageScrapper\Models;
 class GarbageDay
 {
     private $iconMapping = [
-        'Gft & etensresten' => 'bladeren-appel-gft.svg',
-        'Plastic, blik & drinkpakken' => 'plastic-hero-logo-blik-metaal-melkpak-drankpak-pmd.svg',
-        'Papier en karton' => 'doos-karton-papier.svg',
+        'Gft & etensresten' => 'sw-gft-groente-fruit-tuinafval.svg',
+        'Plastic, blik & drinkpakken' => 'sw-pmd-plastic-metaal-drankverpakking.svg',
+        'Papier en karton' => 'sw-papier-en-karton.svg',
     ];
 
     /**

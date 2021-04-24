@@ -7,6 +7,7 @@ This script makes use of data belonging to stadswerk072.nl. No other information
 
 ## Installation requirements
 -  PHP >= 7.1.3
+- Composer
 
 ## Install steps
 1. ``composer install``
